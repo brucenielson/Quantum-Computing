@@ -1,0 +1,25 @@
+C:\Bruce N\Programming\Quantum Computing\Graphing\bin\Debug\Graphing.exe
+C:\Bruce N\Programming\Quantum Computing\Graphing\bin\Debug\Graphing.pdb
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\ComplexPlane.baml
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\ComplexPlane.g.cs
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\App.g.cs
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing_MarkupCompile.cache
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.g.resources
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.Properties.Resources.resources
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.exe
+C:\Bruce N\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.pdb
+C:\Programming\Quantum Computing\Graphing\bin\Debug\Graphing.exe
+C:\Programming\Quantum Computing\Graphing\bin\Debug\Graphing.pdb
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.csprojResolveAssemblyReference.cache
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\ComplexPlane.baml
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\ComplexPlane.g.cs
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\App.g.cs
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing_MarkupCompile.cache
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.g.resources
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.Properties.Resources.resources
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.csproj.GenerateResource.Cache
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.exe
+C:\Programming\Quantum Computing\Graphing\obj\x86\Debug\Graphing.pdb

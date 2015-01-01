@@ -1,0 +1,10 @@
+C:\Bruce N\Programming\Quantum Computing\LinearAlgebra\bin\Debug\LinearAlgebra.dll
+C:\Bruce N\Programming\Quantum Computing\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+C:\Bruce N\Programming\Quantum Computing\LinearAlgebra\obj\Debug\ResolveAssemblyReference.cache
+C:\Bruce N\Programming\Quantum Computing\LinearAlgebra\obj\Debug\LinearAlgebra.dll
+C:\Bruce N\Programming\Quantum Computing\LinearAlgebra\obj\Debug\LinearAlgebra.pdb
+C:\Programming\Quantum Computing\LinearAlgebra\bin\Debug\LinearAlgebra.dll
+C:\Programming\Quantum Computing\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+C:\Programming\Quantum Computing\LinearAlgebra\obj\Debug\LinearAlgebra.csprojResolveAssemblyReference.cache
+C:\Programming\Quantum Computing\LinearAlgebra\obj\Debug\LinearAlgebra.dll
+C:\Programming\Quantum Computing\LinearAlgebra\obj\Debug\LinearAlgebra.pdb

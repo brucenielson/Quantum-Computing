@@ -1,0 +1,19 @@
+﻿<Window x:Class="Graphing.ComplexPlane"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ComplexPlane" Height="550" Width="550">
+    <Grid>
+        <Canvas Name="ComplexPlaneCanvas" Height="500" Width="500">
+            <Line
+                X1="0" Y1="250"
+                X2="500" Y2="250"
+                Stroke="Black"
+                StrokeThickness="2" />
+            <Line
+                X1="250" Y1="0"
+                X2="250" Y2="500"
+                Stroke="Black"
+                StrokeThickness="2" />
+        </Canvas>
+    </Grid>
+</Window>
